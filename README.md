@@ -23,4 +23,6 @@ console.log(m.pi());          // 3.141592653589793
 console.log(m.pot(2, 3));     // 8
 console.log(m.rdc(9.89));     // 9
 console.log(m.rd(10, 1));     // número aleatório>
+console.log(m.rq(10)); // 5 
+console.log(m.rc(10)); // 2.14
 
