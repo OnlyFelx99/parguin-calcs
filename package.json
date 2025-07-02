@@ -1,0 +1,21 @@
+
+{
+  "name": "parguin-calcs",
+  "version": "1.0.6",
+  "description": "Lib De matematica feita pra oti>
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &&>
+  },
+  "keywords": ["math", "calc easy", "npm", "br"],
+  "author": "parguin.",
+  "license": "ISC",
+   "repository": {
+   "type": "git",
+    "url": "git+https://github.com/OnlyFelx99/par>
+},
+    "type": "module"
+}
+
+
+    
